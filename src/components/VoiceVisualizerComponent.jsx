@@ -41,7 +41,7 @@ const VoiceVisualizerComponent = () => {
         }}
       >
         <strong>Transcript:</strong>
-        <p>{transcript}</p>
+        <p>test : {transcript}</p>
       </div>
     </div>
   );
